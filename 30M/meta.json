@@ -1,0 +1,11 @@
+{
+  "dataset": "wikimedia/wikipedia/20231101.en",
+  "vocab_size": 16384,
+  "eot_id": 0,
+  "dtype": "uint16",
+  "n_articles": 876544,
+  "train_tokens": 1000523801,
+  "val_tokens": 5178464,
+  "min_chars": 1000,
+  "test_run": false
+}
